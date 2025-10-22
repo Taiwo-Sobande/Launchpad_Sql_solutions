@@ -1,1 +1,1 @@
-Solutions to SQL questions solved using PostgreSQL.
+Solutions to DEC Launchpad SQL questions solved using PostgreSQL.
